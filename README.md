@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3ea7d7&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ali+Yara;I'm+a+Front+End+Web+Developer+:%29)](https://git.io/typing-svg)
+
 # 💫 About Me:
 👋 Hi, I'm Ali, a frontend web developer specializing in React ⚛️ and Next.js 🚀. I have a strong passion for creating dynamic, high-performance web applications, focusing on delivering seamless user experiences 🌟. My expertise lies in building responsive, scalable, and maintainable frontend solutions using modern JavaScript frameworks 💻.<br><br>Some of the projects I've worked on include:<br><br>🛠️ Developing interactive and dynamic web apps using React and Next.js.<br>⚡ Implementing server-side rendering (SSR) and static site generation (SSG) for optimized performance.<br>📱 Ensuring responsive design and cross-browser compatibility for mobile and desktop platforms.<br><br>I'm always excited to explore new technologies and collaborate on innovative projects. Feel free to check out my repositories or reach out if you'd like to connect! 🤝
 
