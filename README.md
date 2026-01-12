@@ -1,25 +1,40 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3ea7d7&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ali+Yara;I'm+a+Full+Stack+Web+Developer+👨🏽‍💻)](https://git.io/typing-svg)
 
-# 💫 About Me:
-👋 Hi, I'm Ali, a full stack web developer specializing in React ⚛️ and Next.js 🚀. I have a strong passion for creating dynamic, high-performance web applications, focusing on delivering seamless user experiences 🌟. My expertise lies in building responsive, scalable, and maintainable frontend solutions using modern JavaScript frameworks 💻.<br><br>Some of the projects I've worked on include:<br><br>🛠️ Developing interactive and dynamic web apps using React and Next.js.<br>⚡ Implementing server-side rendering (SSR) and static site generation (SSG) for optimized performance.<br>📱 Ensuring responsive design and cross-browser compatibility for mobile and desktop platforms.<br><br>I'm always excited to explore new technologies and collaborate on innovative projects. Feel free to check out my repositories or reach out if you'd like to connect! 🤝
+# About Me:
+Hi, I’m Ali, a Software Engineer specializing in Java, Angular, React, and AWS. I’m passionate about building scalable, secure, and high-performance applications, with a strong focus on clean architecture and real-world business needs.
+
+I enjoy working across the stack, from robust backend services to modern, user-friendly interfaces, while leveraging cloud technologies to deliver reliable and maintainable systems.
+
+Some of the areas I’ve worked on include:
+
+Building enterprise-grade applications using Java (Spring ecosystem) and Angular / React
+
+Designing and integrating RESTful APIs, authentication, and authorization (OAuth2 / Keycloak)
+
+Deploying and managing applications on AWS, focusing on scalability, performance, and security
+
+Creating responsive and performant user interfaces with strong attention to usability and cross-platform compatibility
+
+I’m always eager to learn new technologies, improve my system design skills, and collaborate on impactful projects. Feel free to check out my repositories or reach out if you’d like to connect.
 
 
-## 🌐 Socials:
+## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aliyara29) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__aliyara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-yara-cc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ALIYARA27498214) ![GitHub followers](https://img.shields.io/github/followers/aliyara290)
 
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json) ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![SASS](	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Php](https://img.shields.io/badge/PHP-%2300C4CC.svg?style=for-the-badge&logo=php&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello) ![MySQL](https://img.shields.io/badge/mysql-%2300C4CC.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
+
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aliyara290&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aliyara290&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyara290&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aliyara290&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
